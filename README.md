@@ -20,7 +20,7 @@ The packages that are to be installed is written in [**requirements.txt**](requi
 
 ### How to run this project 
 
-**<u>Step 1</u>** : Open terminal and clone the repository : git clone https://github.com/devika-be/Data-Science-Projects/Hospital_Cost_Prediction.git <br>
+**<u>Step 1</u>** : Open terminal and clone the repository : git clone https://github.com/devika-be/Image-Scraping-using-BeautifulSoup-Model-Part2.git <br>
 **<u>Step 2</u>** : In the terminal, go to the location where the repo is saved. <br>
 **<u>Step 3</u>** : Run **<i>python application.py</i>** from the terminal. 
 
